@@ -5,7 +5,7 @@
 ## Вот с этим я месился)
 
 <p>
-<img alt="Java" src="https://img.shields.io/badge/Java-e6712c?logo=Java&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-e6712c?logo=Java&logoColor=yellow">
 <img alt="Python" src="https://img.shields.io/badge/Python-3f7cad.svg?logo=python&logoColor=white">
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-20232A.svg?logo=javascript&logoColor=F7DF1E">
 <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
@@ -21,5 +21,5 @@
 <img alt="Bash" src="https://img.shields.io/badge/Bash-20232A.svg?logo=gnu-bash&logoColor=white">
 <img alt="Docker" src="https://img.shields.io/badge/Docker-02569B?logo=Docker&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-f6db47?logo=linux&logoColor=black">
-<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=orange">
 </p>
