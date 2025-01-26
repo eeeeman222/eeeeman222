@@ -2,6 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=eeeeman222&style=flat-square&color=red)
 
+## Язычки(Лабы на джава съели всё)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman222&layout=compact&theme=dark)
+
 ## Контакты
 <div style="text-align: center;">
   <p>Telegram</p>
@@ -9,8 +12,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40" style="background-color: transparent;"/>
   </a>
 </div>
-
-
 
 
 ## Вот с этим я месился)
