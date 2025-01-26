@@ -4,7 +4,7 @@
 
 ## Контакты
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_icon.svg" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
+[<img src="https://dk.pinterest.com/pin/822681056930037809/" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
 
 
 ## Вот с этим я месился)
