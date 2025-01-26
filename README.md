@@ -10,7 +10,7 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman222&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman222&layout=compact&theme=default)
 
 ## Вот с этим я месился)
 
