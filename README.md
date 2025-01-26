@@ -4,7 +4,7 @@
 
 ## Контакты
 
-[<a href="https://t.me/eeeeman22" style="background-color: #0088cc; color: white; padding: 10px 20px; text-align: center; text-decoration: none; border-radius: 5px;">Написать в Telegram</a>](https://t.me/eeeeman22)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_icon.svg" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
 
 
 ## Вот с этим я месился)
