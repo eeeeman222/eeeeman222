@@ -10,9 +10,11 @@
   </a>
 </div>
 
-<div>
+##
+Язычки(Лабы на джава съели всё)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman222&layout=compact&theme=dark)
-</div>
+
+
 ## Вот с этим я месился)
 
 <p>
