@@ -4,7 +4,7 @@
 
 ## Контакты
 
-[<img src="https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-telegram-1.png" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
+[<img src="https://w7.pngwing.com/pngs/979/991/png-transparent-telegram-flat-black-icon-social-media-flat-black-icon.png" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
 
 
 ## Вот с этим я месился)
