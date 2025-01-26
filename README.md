@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=eeeeman222&style=flat-square&color=red)
 
 ## Контакты
-<div style="text-align: center;">
+<div style="text-align: right;">
   <p>Telegram</p>
   <a href="https://t.me/eeeeman22">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40" style="background-color: transparent;"/>
