@@ -4,7 +4,9 @@
 
 ## Контакты
 <div style="text-align: center;">
-  [<img src="https://w7.pngwing.com/pngs/979/991/png-transparent-telegram-flat-black-icon-social-media-flat-black- icon.png" alt="Telegram" width="40" height="40" />](https://t.me/eeeeman22)
+  <a href="https://t.me/eeeeman22">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/2048px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40" style="background-color: transparent;"/>
+  </a>
 </div>
 
 
