@@ -3,7 +3,13 @@
 ![](https://komarev.com/ghpvc/?username=eeeeman222&style=flat-square&color=red)
 
 ## Язычки(Лабы на джава съели всё)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman222&layout=compact&theme=dark)
+<div style="text-align: center;">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman22&layout=compact&theme=default)
+</div>
+
+<div style="text-align: center;">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eeeeman222&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=default)
+</div>
 
 ## Контакты
 <div style="text-align: center;">
