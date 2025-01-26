@@ -4,10 +4,7 @@
 
 ## Язычки(Лабы на джава съели всё)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeman22&layout=compact&theme=default)
-
-## Статка
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eeeeman222&show_icons=true&count_private=true&hide=prs&hide_title=true&theme=default)
+![](https://github.com/anuraghazra/github-readme-stats)
 
 ## Контакты
 <div style="text-align: center;">
